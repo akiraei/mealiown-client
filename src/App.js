@@ -16,7 +16,7 @@ import RecordPage from "./pages/RecordPage";
 // import MainPage from "./pages/MainPage";
 import DashboardPage from "./pages/DashboardPage";
 
-require("dotenv").config();
+// require("dotenv").config();
 const env = process.env;
 // apollo client setup
 const client = new ApolloClient({
